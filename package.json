@@ -1,0 +1,10 @@
+{
+  "name": "crisis-communication-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: crisis-communication-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "productivity"
+  }
+}
